@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pellifix-mobile",
+    "slug": "pellifix-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pellifix-mobile"
+}
